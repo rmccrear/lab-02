@@ -9,3 +9,7 @@ By Robert McCreary
 ## Colaboration
 
 Working together with the class.
+
+## Lighthouse Score
+
+TODO: take a screenshot of the Lighthouse score.
