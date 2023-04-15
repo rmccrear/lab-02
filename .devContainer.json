@@ -1,0 +1,26 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "hostRequirements": {
+    "cpus": 2
+  },
+  "waitFor": "onCreateCommand",
+  "updateContentCommand": "npm install",
+  "postCreateCommand": "npm init; npm install live-server",
+  "postAttachCommand": {
+    "server": "npx live-server"
+  },
+  "customizations": {
+    "codespaces": {
+      "openFiles": [
+        "index.html"
+      ]
+    }
+  },
+  "portsAttributes": {
+    "8080": {
+      "label": "Application",
+      "onAutoForward": "openPreview"
+    }
+  },
+  "forwardPorts": [8080]
+}
