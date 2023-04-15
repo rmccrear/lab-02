@@ -1,4 +1,4 @@
-alert("hello")
+alert("Hello!")
 
 // TODO: ask the user's name.
 
