@@ -8,10 +8,10 @@ let answerOne = prompt("Am I happy?");
 // use if / else
 // if 'y' then your are correct
 if(answerOne === 'y' || answerOne === 'yes'){
-  console.log("You are correct.");
+  console.log("You are correct!");
 } else {
   // if 'n' then your are incorrect
-  console.log("You are incorrect.");
+  console.log("You are incorrect!");
 }
 
 // TODO: Give a response with an alert to
