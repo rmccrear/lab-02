@@ -12,7 +12,8 @@ Working together with the class.
 
 ## Links
 
-[https://github.com/rmccrear/lab-02/pull/1](My PR for Lab 03)
+[My PR for Lab 03]
+(https://github.com/rmccrear/lab-02/pull/1)
 
 ## Lighthouse Score
 
