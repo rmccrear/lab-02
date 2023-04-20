@@ -10,6 +10,10 @@ By Robert McCreary
 
 Working together with the class.
 
+## Links
+
+[https://github.com/rmccrear/lab-02/pull/1](My PR for Lab 03)
+
 ## Lighthouse Score
 
 TODO: take a screenshot of the Lighthouse score.
